@@ -27,4 +27,5 @@ To run the application locally, follow these steps:
 
 
 ## Walkthrough Video
-[Link to Walkthrough Video](#) <!-- Add your video link here -->
+[Link to Walkthrough Video](#) (https://drive.google.com/file/d/1nc5YY81a0qSPMGomLu_-c_KumkPqxbHS/view)
+
